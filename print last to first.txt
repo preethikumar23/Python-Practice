@@ -1,0 +1,5 @@
+#print last to first
+i = 10
+while i >= 1: #looping until i is greater than and equal to one
+    print(i)
+    i -= 1
